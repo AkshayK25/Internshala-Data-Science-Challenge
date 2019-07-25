@@ -3,6 +3,6 @@ HACKATHON powered by ANALYTICS VIDHYA
 
 **Model Report**
 
-Accuracy : 0.955
+Accuracy : 95.5%
 
 AUC Score (Train): 0.882333
