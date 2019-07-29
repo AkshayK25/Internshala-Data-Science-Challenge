@@ -28,7 +28,7 @@ sourcing_channel : Sourcing channel for application
 
 residence_area_type : Area type of Residence (Urban/Rural)
 
-target : 1 - premium paid on time
+target : 1 - premium paid on time ,
          0 - otherwise
 
 ## Model Report
