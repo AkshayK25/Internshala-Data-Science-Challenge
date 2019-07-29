@@ -31,7 +31,7 @@ residence_area_type : Area type of Residence (Urban/Rural)
 target : 1 - premium paid on time
          0 - otherwise
 
-**Model Report**
+## Model Report
 
 Accuracy : 95.5%
 
